@@ -1,0 +1,11 @@
+{
+  "name": "strapi-auth",
+  "version": "0.0.128",
+  "description": "Strapi authentication module, also support static site",
+  "main": "index.js",
+  "author": "Aldy Cavalera (Sawala Tech)",
+  "license": "MIT",
+  "dependencies": {
+    "js-cookie": "^2.2.1"
+  }
+}
